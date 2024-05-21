@@ -3,9 +3,10 @@
 <p>Atualmente trabalho com Suporte Técnico em Informática.</p>
 <!---Estou estudando Ciencia de Dados para migrar de carreira.
 https://github-readme-stats.vercel.app/api?username=dvianajr)](https://github.com/anuraghazra/github-readme-stats--->
+
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dvianajr&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=dvianajr&&show_icons=true&theme=onedark"
     media="(prefers-color-scheme: dark)"
   />
   <source
