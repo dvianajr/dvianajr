@@ -1,6 +1,6 @@
-<h1>👋 Oi, eu sou o Daniel Lopes Viana Junior. </h1>
+<h1>👋 Olá, meu nome é Daniel Viana. </h1>
 <h3>Sou Tecnólogo, tenho MBA em Ciencia de Dados e Pós-Graduação em Desenvolvimento Web</h3>
-<p>Atualmente trabalho com Suporte Técnico em Informática.</p>
+<p>Atualmente trabalho com Suporte Técnico em Informática e pretendo migrar para a área de Dados.</p>
 <!---Estou estudando Ciencia de Dados para migrar de carreira.
 https://github-readme-stats.vercel.app/api?username=dvianajr)](https://github.com/anuraghazra/github-readme-stats--->
 
